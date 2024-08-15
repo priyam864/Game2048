@@ -80,4 +80,6 @@ This is a simple implementation of the 2048 game using Java and Swing. The game 
 
 ---
 ![image](https://github.com/user-attachments/assets/1b83b67f-d2ee-4a25-9394-9dbf4032618e)
+                         ![image](https://github.com/user-attachments/assets/43639a26-96ad-4135-aaa6-9c1c1f651050)
+
 
