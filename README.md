@@ -79,5 +79,3 @@ This is a simple implementation of the 2048 game using Java and Swing. The game 
    - Press `ESC` to reset and start a new game.
 
 ---
-
-This README now includes clear instructions on how to play the game after it has been run.
