@@ -1,9 +1,3 @@
-# Game2048
-"Implementation of the 2048 game in Java with a Swing-based GUI, featuring smooth controls and real-time score tracking."
-Here’s an extended version of the README with steps on how to play after running the game:
-
----
-
 # 2048 Game in Java
 
 This is a simple implementation of the 2048 game using Java and Swing. The game involves merging tiles of the same value on a 4x4 grid to reach the 2048 tile.
@@ -36,7 +30,7 @@ This is a simple implementation of the 2048 game using Java and Swing. The game 
 
 1. **Clone the Repository**: 
    ```bash
-   git clone https://github.com/your-username/2048-game-java.git
+   git clone https://github.com/priyam864/Game2048.git
    ```
    
 2. **Open the Project in an IDE**: 
